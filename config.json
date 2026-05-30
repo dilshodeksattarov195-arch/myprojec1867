@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdave",
+        "uuid": 6517697,
+        "checksum": "40lr7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
